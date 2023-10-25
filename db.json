@@ -15137,6 +15137,75 @@
       "type": "Figure",
       "id": 840,
       "price": 164
+    },
+    {
+      "amiiboSeries": "SerieA",
+      "character": "Marito Bros",
+      "gameSeries": "pinoen",
+      "head": "cabeza",
+      "image": "https://m.media-amazon.com/images/I/61gTwo3koDL._AC_SL1416_.jpg",
+      "name": "Emilio Nicolas Pino",
+      "release": "2023-10-24",
+      "tail": "cola",
+      "type": "mejor",
+      "price": "256",
+      "amiibo": "f",
+      "id": 841
+    },
+    {
+      "amiiboSeries": "SerieA",
+      "character": "Marito Bros",
+      "gameSeries": "pinoen",
+      "head": "cabeza",
+      "image": "https://m.media-amazon.com/images/I/61gTwo3koDL._AC_SL1416_.jpg",
+      "name": "Emilio Nicolas Pino",
+      "release": "2023-10-24",
+      "tail": "cola",
+      "type": "mejor",
+      "price": "256",
+      "amiibo": "f",
+      "id": 842
+    },
+    {
+      "amiiboSeries": "SerieA",
+      "character": "Marito Bros",
+      "gameSeries": "pinoen",
+      "head": "cabeza",
+      "image": "https://m.media-amazon.com/images/I/61gTwo3koDL._AC_SL1416_.jpg",
+      "name": "Emilio Nicolas Pino",
+      "release": "2023-10-24",
+      "tail": "cola",
+      "type": "mejor",
+      "price": "256",
+      "amiibo": "f",
+      "id": 843
+    },
+    {
+      "amiiboSeries": "SerieA",
+      "character": "Marito Bros",
+      "gameSeries": "pinoen",
+      "head": "cabeza",
+      "image": "https://m.media-amazon.com/images/I/61gTwo3koDL._AC_SL1416_.jpg",
+      "name": "Emilio Nicolas Pino",
+      "release": "2023-10-24",
+      "tail": "cola",
+      "type": "mejor",
+      "price": "256",
+      "amiibo": "f",
+      "id": 844
+    },
+    {
+      "amiiboSeries": "SerieA",
+      "character": "Marito Bros",
+      "gameSeries": "pinoen",
+      "head": "cabeza",
+      "image": "https://m.media-amazon.com/images/I/61gTwo3koDL._AC_SL1416_.jpg",
+      "name": "Emilio Nicolas Pino",
+      "release": "2023-10-24",
+      "tail": "cola",
+      "type": "mejor",
+      "price": "1850",
+      "id": 845
     }
   ]
 }
